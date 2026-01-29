@@ -43,10 +43,6 @@
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![MapBox](https://img.shields.io/badge/MapBox-000000?style=flat&logo=mapbox&logoColor=white)
 ![Spect Drive](https://img.shields.io/badge/Spect%20Drive-6A5ACD?style=flat)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
-
-
-
 
 
 
